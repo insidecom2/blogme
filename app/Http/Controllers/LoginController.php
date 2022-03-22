@@ -35,4 +35,9 @@ class LoginController extends Controller
             'error' => 'Email or Password invalid',
         ]);
     }
+
+    public function test()
+    {
+        
+    }
 }
